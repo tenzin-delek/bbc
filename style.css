@@ -1,0 +1,118 @@
+     
+#top-bar{
+
+width: auto;
+margin:0 auto;
+height: 60px;
+background-color:#000000;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+#logo{
+    margin: 14px 10px 10px 150px;
+    float: left;
+}
+.topbar-section{
+    float: left;
+    border-left: 1px #262626 solid;
+    height: 50%;
+    margin-top: 18px;
+    
+    
+}
+#signin-img{
+    margin: 18px 3px 20px 8px; 
+    float: left;
+}
+#signin-text{
+    color: #fffdfc;
+    font-weight: bold;
+    font-size: 80%;
+    position: relative;
+    top: 24px; 
+}
+#signin{
+    margin-right: 100px;
+    float: left;
+}
+.text{
+    color: #fffdfc;
+    font-weight: bold;
+    font-size: 75%;
+    position: relative;
+    top: 25px;
+    left: 10px;
+    margin-right: 30px;
+    margin-left: 15px;
+    float: left;
+}
+#more{
+    position: relative;
+    top: 25px;
+    left: 10px;
+    float: left;
+}
+#home{
+    margin-top: -18px;
+    float: left;
+}
+#searchbar{
+    position: absolute;
+    left: 1170px;
+    top: 15PX;
+    width: 200px;
+    height: 35px;
+    background-color:#202224    
+}
+#search-img{
+    margin: 8px;
+    float: left;
+    
+}
+#search-text{
+    color: white;
+    position: relative;
+    top: 11px;
+    font-size: 70%;
+    font-weight: bold;
+}
+#welcome{
+    margin: 40px 0px 10px 150px;
+    font-weight: 700;
+    font-size: 150%;
+    color: #505356;
+
+}
+#news-1{
+    float: left;
+}
+
+
+#news-2{
+    float: left;
+}
+#news-4{
+    float: left;
+}
+#img-1{
+    margin-left: 150px;
+    margin-top:5px;
+}
+#img-2{
+    margin-left: 13px;
+    margin-top:5px;
+}
+#img-3{
+    margin-left: 13px;
+    margin-top:10px
+}
+#news-1-text{
+    position: relative;
+}
+
+                                    
+        
